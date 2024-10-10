@@ -29,3 +29,25 @@ nav ul li a {
   border: 0.5px solid black;
 }
 /* navbar end */
+/* banner satrt */
+.text p {
+  font-size: 20px;
+}
+.btn1 {
+  padding: 15px 35px;
+  border-radius: 14px;
+  background-color: #000;
+  color: #fff;
+}
+.banner {
+  display: flex;
+  gap: 90px;
+  margin-top: 70px;
+}
+.banner-photo img {
+  width: 600px;
+  height: 515px;
+}
+.icon img {
+  width: 1200px;
+}
